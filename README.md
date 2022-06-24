@@ -1,6 +1,68 @@
 #  PHYSICAL DESIGN WORK - OPENLANE EDA - VSDIAT     
 ![image](https://user-images.githubusercontent.com/107180943/175544822-8728494a-3364-4668-891c-bb449899e3cc.png)
 
+## Synthesis
+Design setup 
+
+
+![image](https://user-images.githubusercontent.com/107180943/175610575-d02d40b7-854b-4ded-94c7-17fcb7b97222.png)
+
+Prepare the design picorv32a 
+
+![image](https://user-images.githubusercontent.com/107180943/175610918-d8475bc5-e792-4b92-899b-94f4d41927ee.png)
+
+Running a synthesis step
+
+![image](https://user-images.githubusercontent.com/107180943/175613031-a1c0d87b-0da9-4774-9226-813a4a21e78f.png)
+
+synthesis.tcl for setting up design variables (system default)
+
+Next priority is config.tcl 
+
+![image](https://user-images.githubusercontent.com/107180943/175616210-1aaa1495-aa3f-4d04-a9ed-fabdd575e2ba.png)
+
+High priority we have design specific config file 
+
+![image](https://user-images.githubusercontent.com/107180943/175616266-fc467235-b133-47cc-a6a5-a3cf1c8623de.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/107180943/175615721-66788d81-d219-45c9-acb1-43349f0b471c.png)
+
+
+Synthesis got succesful 
+
+![image](https://user-images.githubusercontent.com/107180943/175612443-855252fe-b7b8-437d-b5b2-0291d53c269d.png)
+
+Synthesis cell wise statistics
+
+ - Dff count is 1613 
+
+![image](https://user-images.githubusercontent.com/107180943/175612506-c1e232df-0080-4952-a703-32e69135ddcf.png)
+
+
+Synthesis reports 
+
+- synthesis step will run both yosys and openSTA tools underhood , we will do synthesis and also perform initial Static timing analysis 
+
+
+![image](https://user-images.githubusercontent.com/107180943/175614077-b1d020e2-953a-461e-b5bf-914df8405459.png)
+
+Initial Static timing analysis report 
+
+![image](https://user-images.githubusercontent.com/107180943/175614737-908ebabc-dd18-4951-bd7f-a6ccd8021bfa.png)
+
+
+
+## FloorPlan
+
+Floor plan step 
+
+
+
+
+
 
 ## STANDARD CELL CHARACTERIZATION STEPS 
 git clone vsdstdcelldesign 
