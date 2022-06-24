@@ -87,6 +87,10 @@ Floor def in magic layout
 
 Steps for placement 
 
+![image](https://user-images.githubusercontent.com/107180943/175645042-86618cd1-7a8a-4250-bee1-12dd36d3ee2a.png)
+
+
+
 
 
 
