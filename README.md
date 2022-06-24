@@ -85,6 +85,8 @@ Floor def in magic layout
 ## Placement 
 
 
+Steps for placement 
+
 
 
 
