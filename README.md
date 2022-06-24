@@ -71,6 +71,17 @@ After floor plan , floor def will be created
 ![image](https://user-images.githubusercontent.com/107180943/175617216-71ee6748-643d-499a-b4e4-e975b7690b25.png)
 
 
+Opening the Floor plan DEF using magic 
+
+![image](https://user-images.githubusercontent.com/107180943/175625932-8b01b54c-d865-4726-b9d0-8c135583e73c.png)
+
+Floor def in magic layout 
+
+![image](https://user-images.githubusercontent.com/107180943/175629324-a6fcf09f-1683-4871-8cec-640d18da5f54.png)
+
+![image](https://user-images.githubusercontent.com/107180943/175633586-0e09e25e-6b29-46e7-ac20-6217c61a05d5.png)
+
+
 
 
 
