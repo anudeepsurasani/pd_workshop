@@ -59,6 +59,18 @@ Initial Static timing analysis report
 
 Floor plan step 
 
+Running floorlan
+
+![image](https://user-images.githubusercontent.com/107180943/175617038-9ec648f1-d095-45bd-bc26-2b2fff34f02b.png)
+
+
+Floorplan outputs 
+
+After floor plan , floor def will be created 
+
+![image](https://user-images.githubusercontent.com/107180943/175617216-71ee6748-643d-499a-b4e4-e975b7690b25.png)
+
+
 
 
 
