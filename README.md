@@ -9,3 +9,11 @@ git clone vsdstdcelldesign
 
 Inverter layout 
 ![image](https://user-images.githubusercontent.com/107180943/175537605-db6a446e-03ad-4e1e-ad29-c5607a2c00e0.png)
+
+
+![image](https://user-images.githubusercontent.com/107180943/175572447-62508020-cc35-474e-b378-a29353d243f2.png)
+
+
+![image](https://user-images.githubusercontent.com/107180943/175572510-a190689b-93c3-4aab-9adb-14da1f2db24e.png)
+
+![image](https://user-images.githubusercontent.com/107180943/175572532-e7a19f82-20ab-41f8-882f-ff58dccb7ec0.png)
