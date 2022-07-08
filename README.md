@@ -123,14 +123,20 @@ Inverter layout
 
 ![image](https://user-images.githubusercontent.com/107180943/175592775-46ecbdff-94a4-4cb2-b146-0771c42fb84c.png)
 
+### Write out std cell  LEF from magic inv layout 
+
 Save the std inv layout 
 ![image](https://user-images.githubusercontent.com/107180943/177989689-b70df22a-73fd-447a-b2db-9fd3ef2f7217.png)
 
 
 Open the new inv layout in magic 
-![image](https://user-images.githubusercontent.com/107180943/177990053-8e961a2d-8e28-49ba-b538-9dce515380d3.png)
+![image](https://user-images.githubusercontent.com/107180943/177990589-11f964d8-e9d9-42e2-a1bf-28a6341cda28.png)
 
-### Write out std cell  LEF from magic inv layout 
+writing the cell LEF from magic layout 
+![image](https://user-images.githubusercontent.com/107180943/177991101-165169ae-10d6-4652-91ba-3e5a54b09dd9.png)
+
+
+
 
 
 
