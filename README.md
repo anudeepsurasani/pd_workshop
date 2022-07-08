@@ -130,7 +130,7 @@ Save the std inv layout
 Open the new inv layout in magic 
 ![image](https://user-images.githubusercontent.com/107180943/177990053-8e961a2d-8e28-49ba-b538-9dce515380d3.png)
 
-# Write out std cell  LEF from magic inv layout 
+### Write out std cell  LEF from magic inv layout 
 
 
 
