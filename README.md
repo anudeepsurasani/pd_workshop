@@ -123,4 +123,6 @@ Inverter layout
 
 ![image](https://user-images.githubusercontent.com/107180943/175592775-46ecbdff-94a4-4cb2-b146-0771c42fb84c.png)
 
-
+Save the std inv layout 
+![image](https://user-images.githubusercontent.com/107180943/177989689-b70df22a-73fd-447a-b2db-9fd3ef2f7217.png)
+![Uploading image.png…]()
