@@ -137,8 +137,42 @@ writing the cell LEF from magic layout
 
 
 
+Config file for addig New lef 
+![image](https://user-images.githubusercontent.com/107180943/178006569-45665110-bffe-4b14-a0c6-f9dc2ab61464.png)
 
 
+![image](https://user-images.githubusercontent.com/107180943/178014099-41108be6-538e-4468-b878-4a6b06de91df.png)
+
+Include below commands to new lefs 
+
+ - set lefs [glob $::env(DESIGN_DIR)/src/*.lef]
+ 
+ - add_lefs -src $lefs
+
+New std cell Inv count in new synthesis output 
+![image](https://user-images.githubusercontent.com/107180943/178015623-064e5158-2f26-4bcb-91e3-555e4aa8f344.png)
+
+Before setting up variable 
+
+Area 
+
+![image](https://user-images.githubusercontent.com/107180943/178029355-84c1a875-31f9-4d8d-acc7-c456d74b2ead.png)
+
+Slacks 
+
+![image](https://user-images.githubusercontent.com/107180943/178029393-8b53e51e-f3a3-4860-ab31-7424d47f0290.png)
+
+       
+Setting variable to fix slack 
+
+![image](https://user-images.githubusercontent.com/107180943/178029102-a1bbb121-e477-4534-8854-3a94792a56f6.png)
+
+
+After setting of variables to fix the slacks issue (synth_strategy and sizing variables ) 
+
+Area and Slacks 
+
+![image](https://user-images.githubusercontent.com/107180943/178029659-224f8c70-0b1f-43f9-86ec-04c083092f51.png)
 
 
 
