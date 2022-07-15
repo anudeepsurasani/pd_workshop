@@ -233,10 +233,7 @@ run_syntheseis and then do sta analysis using "sta pre_sta.conf" using the lates
 
 ![image](https://user-images.githubusercontent.com/107180943/179181736-a0dd2df9-9640-4b19-b869-efc065e118b1.png)
 
-
-
-
-
+![image](https://user-images.githubusercontent.com/107180943/179197318-b54d14f9-76ff-4c93-b9fb-491307a22647.png)
 
 
 
