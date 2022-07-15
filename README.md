@@ -293,7 +293,17 @@ After CTS , new sythesis output got added sythesis folder
 ![image](https://user-images.githubusercontent.com/107180943/179275708-b783a5c8-b101-4aa1-941c-08ea30e4b4fb.png)
 
 
-Actaully we did for min and max corner which is wrong , we need to do for the tyical corner 
+Actaully we did for min and max corner which is wrong , we need to do for the tyical corner . we exit from openroad not from openlane 
 
 ![image](https://user-images.githubusercontent.com/107180943/179277024-5908cc65-fe81-4e5f-ac85-2a22045e13f5.png)
+
+![image](https://user-images.githubusercontent.com/107180943/179277675-5a0d78c9-fb9d-4033-a676-b04b1f1217af.png)
+
+![image](https://user-images.githubusercontent.com/107180943/179277751-bf73ef31-0348-4d68-ae3d-1303f077cc2b.png)
+
+![image](https://user-images.githubusercontent.com/107180943/179277917-dae8e8fa-7e93-4453-adf3-9c1d1c8b5bf6.png)
+
+![image](https://user-images.githubusercontent.com/107180943/179278174-2e55d8a9-9721-4b22-b3dc-250d8b9cb6b6.png)
+
+
 
