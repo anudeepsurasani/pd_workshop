@@ -306,6 +306,16 @@ Actaully we did for min and max corner which is wrong , we need to do for the ty
 ![image](https://user-images.githubusercontent.com/107180943/179278174-2e55d8a9-9721-4b22-b3dc-250d8b9cb6b6.png)
 
 
-Triton CTS does not support multi-corner analysis currently 
+ Multi-corner analysis currently not supported by triton CTS 
+
+
+![image](https://user-images.githubusercontent.com/107180943/179281966-c8ced9f0-4864-4bc1-b3e5-438f87246219.png)
+
+![image](https://user-images.githubusercontent.com/107180943/179283649-e9175db9-331c-4fa0-b1ca-af0553b84812.png)
+
+
+
+
+
 
 
