@@ -211,6 +211,21 @@ my_base.sdc
 ![image](https://user-images.githubusercontent.com/107180943/179177119-ada557b8-10b4-4011-a567-8a3db8e81fbf.png)
 
 
+sta pre_sta.conf
+
+![image](https://user-images.githubusercontent.com/107180943/179178174-8fb03320-96c7-44ff-98dc-624aa19c0340.png)
+
+
+
+![image](https://user-images.githubusercontent.com/107180943/179178746-ba8af38b-b943-48f9-9b9e-a7d77b39e4ae.png)
+
+
+![image](https://user-images.githubusercontent.com/107180943/179179096-4a7f6ce8-5867-4321-9d67-c6e0a5a5e7f0.png)
+
+![image](https://user-images.githubusercontent.com/107180943/179179287-d7bb9fc3-fedb-4759-9cb8-64bc2820e6a0.png)
+
+
+
 
 
 
