@@ -201,5 +201,16 @@ Placement def
 ![image](https://user-images.githubusercontent.com/107180943/179176109-10517740-ecec-49b5-9a5a-1c6550605599.png)
 
 
+pre_sta.conf
+
+![image](https://user-images.githubusercontent.com/107180943/179176884-2ef4e203-09be-40e8-946a-ea40126705c8.png)
+
+
+my_base.sdc
+
+![image](https://user-images.githubusercontent.com/107180943/179177119-ada557b8-10b4-4011-a567-8a3db8e81fbf.png)
+
+
+
 
 
