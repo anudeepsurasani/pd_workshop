@@ -33,6 +33,7 @@ High priority we have design specific config file
 
 Synthesis got succesful 
 
+
 ![image](https://user-images.githubusercontent.com/107180943/175612443-855252fe-b7b8-437d-b5b2-0291d53c269d.png)
 
 Synthesis cell wise statistics
@@ -234,6 +235,15 @@ run_syntheseis and then do sta analysis using "sta pre_sta.conf" using the lates
 ![image](https://user-images.githubusercontent.com/107180943/179181736-a0dd2df9-9640-4b19-b869-efc065e118b1.png)
 
 ![image](https://user-images.githubusercontent.com/107180943/179197318-b54d14f9-76ff-4c93-b9fb-491307a22647.png)
+
+
+![image](https://user-images.githubusercontent.com/107180943/179204435-b78449f9-a376-4ce5-a066-8b09085b8fd2.png)
+
+![image](https://user-images.githubusercontent.com/107180943/179204584-a7d8f7a4-b948-4b30-b3f6-ad34cdd77fac.png)
+
+
+![image](https://user-images.githubusercontent.com/107180943/179204233-951d8ea5-e94b-4527-bdc7-e638aa459131.png)
+
 
 
 
