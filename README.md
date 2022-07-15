@@ -276,4 +276,8 @@ Now run the clock tree synthesis : run_cts
 ![image](https://user-images.githubusercontent.com/107180943/179210815-2f197f14-5490-44fd-92d7-47a658a1dc55.png)
 
 
+After CTS , new sythesis output got added sythesis folder 
+
+![image](https://user-images.githubusercontent.com/107180943/179223878-9afe6b13-abdc-44d6-b238-437ba66bce16.png)
+
 
