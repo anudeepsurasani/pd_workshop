@@ -225,6 +225,17 @@ sta pre_sta.conf
 ![image](https://user-images.githubusercontent.com/107180943/179179287-d7bb9fc3-fedb-4759-9cb8-64bc2820e6a0.png)
 
 
+After setting max fanout to 4 
+
+![image](https://user-images.githubusercontent.com/107180943/179181665-2a07b195-771b-4858-b9db-a16e7e762d9e.png)
+
+
+![image](https://user-images.githubusercontent.com/107180943/179181736-a0dd2df9-9640-4b19-b869-efc065e118b1.png)
+
+
+
+
+
 
 
 
