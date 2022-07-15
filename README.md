@@ -249,6 +249,15 @@ Buffer upsizing to 4 , improve the slack
 
 ![image](https://user-images.githubusercontent.com/107180943/179205545-e11629ca-e79e-4764-b224-4c4d08de96c7.png)
 
+Write verilog to following , After your timing voilation got removed 
+
+![image](https://user-images.githubusercontent.com/107180943/179209125-2091648e-a1e2-48f1-bc4c-b60d7ce1ae7d.png)
+
+
+Upsizing to buf 4 , verified in new verilog netlist 
+
+![image](https://user-images.githubusercontent.com/107180943/179208851-8751dcd1-8a09-4b0d-9c2b-c8f4fe96ba0c.png)
+
 
 
 
