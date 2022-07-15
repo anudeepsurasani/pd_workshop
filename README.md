@@ -314,6 +314,32 @@ Actaully we did for min and max corner which is wrong , we need to do for the ty
 ![image](https://user-images.githubusercontent.com/107180943/179286231-597dc5fd-b02b-4c77-9815-a4a246c3aee3.png)
 
 
+![image](https://user-images.githubusercontent.com/107180943/179286377-44fccf4f-39c3-4920-b044-5a3b09b23515.png)
+
+
+![image](https://user-images.githubusercontent.com/107180943/179286433-d29b8130-4f34-4db5-baf0-ad2108565c85.png)
+
+Clock skew 
+
+![image](https://user-images.githubusercontent.com/107180943/179286747-6d641057-3745-4059-9919-1e2e2edf018b.png)
+
+![image](https://user-images.githubusercontent.com/107180943/179287807-21848d64-0f6e-45c8-b888-bf63e1a61e75.png)
+
+
+Power delivery network 
+
+gen_pdn
+
+![image](https://user-images.githubusercontent.com/107180943/179288578-52a633f6-1097-4aad-9062-9cf3b50693fb.png)
+
+![image](https://user-images.githubusercontent.com/107180943/179288658-ae5a6e74-e2eb-40e7-9547-fcde57d154ac.png)
+
+![image](https://user-images.githubusercontent.com/107180943/179288721-d527b83f-2679-4c04-a74e-26f6ef50e792.png)
+
+
+
+
+
 
 
 
