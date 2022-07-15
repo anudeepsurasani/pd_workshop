@@ -346,5 +346,16 @@ gen_pdn
 
 ## ROUTING 
 
+run routing
+
+fast routing :
+
+detailed routing : 
+
+Routing Failed with too high congestion 
+
+![image](https://user-images.githubusercontent.com/107180943/179297048-6f78eb49-281f-4424-81d0-32ef82eeb6c5.png)
+
+
 
 
