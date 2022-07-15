@@ -245,6 +245,10 @@ run_syntheseis and then do sta analysis using "sta pre_sta.conf" using the lates
 ![image](https://user-images.githubusercontent.com/107180943/179204233-951d8ea5-e94b-4527-bdc7-e638aa459131.png)
 
 
+Buffer upsizing to 4 , improve the slack 
+
+![image](https://user-images.githubusercontent.com/107180943/179205545-e11629ca-e79e-4764-b224-4c4d08de96c7.png)
+
 
 
 
