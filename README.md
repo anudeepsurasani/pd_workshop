@@ -351,10 +351,21 @@ run routing
 fast routing :
 
 detailed routing : 
+run_routing
 
 Routing Failed with too high congestion 
 
 ![image](https://user-images.githubusercontent.com/107180943/179297048-6f78eb49-281f-4424-81d0-32ef82eeb6c5.png)
+
+
+Post routing STA analysis 
+
+
+Standalone SPEF extractor 
+
+
+![image](https://user-images.githubusercontent.com/107180943/179299789-203b9af4-90f8-49d8-8a3f-f43f19aaadfa.png)
+
 
 
 
