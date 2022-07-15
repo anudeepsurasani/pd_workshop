@@ -192,6 +192,10 @@ detailed_placement
 ![image](https://user-images.githubusercontent.com/107180943/179169127-7a468d7d-556a-49b7-aea6-7da778c70c49.png)
 
 
+![image](https://user-images.githubusercontent.com/107180943/179175866-13062f49-560c-4bb4-abe7-abd557242830.png)
+
+![image](https://user-images.githubusercontent.com/107180943/179176109-10517740-ecec-49b5-9a5a-1c6550605599.png)
+
 
 
 
