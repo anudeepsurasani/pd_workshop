@@ -229,6 +229,7 @@ After setting max fanout to 4
 
 ![image](https://user-images.githubusercontent.com/107180943/179181665-2a07b195-771b-4858-b9db-a16e7e762d9e.png)
 
+run_syntheseis and then do sta analysis using "sta pre_sta.conf" using the latest synthesis ourput which is given in pre_sta.conf file 
 
 ![image](https://user-images.githubusercontent.com/107180943/179181736-a0dd2df9-9640-4b19-b869-efc065e118b1.png)
 
