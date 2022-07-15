@@ -258,6 +258,9 @@ Upsizing to buf 4 , verified in new verilog netlist
 
 ![image](https://user-images.githubusercontent.com/107180943/179208851-8751dcd1-8a09-4b0d-9c2b-c8f4fe96ba0c.png)
 
+run_cts 
+
+![image](https://user-images.githubusercontent.com/107180943/179210815-2f197f14-5490-44fd-92d7-47a658a1dc55.png)
 
 
 
