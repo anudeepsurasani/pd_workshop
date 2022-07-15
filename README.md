@@ -178,10 +178,15 @@ Area and Slacks
 ![image](https://user-images.githubusercontent.com/107180943/179167156-b04515cb-93ee-487a-8fbe-71389379a1b8.png)
 
 init_floorplan
+
 place_io
+
 global_placement_or
+
 detailed_placement
+
 tap_decap_or
+
 detailed_placement
 
 ![image](https://user-images.githubusercontent.com/107180943/179169127-7a468d7d-556a-49b7-aea6-7da778c70c49.png)
