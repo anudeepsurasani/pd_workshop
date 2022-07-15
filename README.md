@@ -293,5 +293,7 @@ After CTS , new sythesis output got added sythesis folder
 ![image](https://user-images.githubusercontent.com/107180943/179275708-b783a5c8-b101-4aa1-941c-08ea30e4b4fb.png)
 
 
+Actaully we did for min and max corner which is wrong , we need to do for the tyical corner 
 
+![image](https://user-images.githubusercontent.com/107180943/179277024-5908cc65-fe81-4e5f-ac85-2a22045e13f5.png)
 
