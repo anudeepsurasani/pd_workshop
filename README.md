@@ -311,7 +311,8 @@ Actaully we did for min and max corner which is wrong , we need to do for the ty
 
 ![image](https://user-images.githubusercontent.com/107180943/179281966-c8ced9f0-4864-4bc1-b3e5-438f87246219.png)
 
-![image](https://user-images.githubusercontent.com/107180943/179283649-e9175db9-331c-4fa0-b1ca-af0553b84812.png)
+![image](https://user-images.githubusercontent.com/107180943/179286231-597dc5fd-b02b-4c77-9815-a4a246c3aee3.png)
+
 
 
 
