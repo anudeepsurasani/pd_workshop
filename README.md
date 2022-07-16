@@ -367,6 +367,13 @@ Standalone SPEF extractor
 ![image](https://user-images.githubusercontent.com/107180943/179299789-203b9af4-90f8-49d8-8a3f-f43f19aaadfa.png)
 
 
+Routing is done with 4 violations 
+
+![image](https://user-images.githubusercontent.com/107180943/179338754-9b9938c2-d3d8-4e9b-8069-f4d89074c137.png)
+
+
+
+
 
 
 
